@@ -24,7 +24,6 @@ Before you get started, the following needs to be installed:
 
     ```bash
     git clone https://github.com/
-    cd cards
     ```
 
 2.  Install the required gems by running the following command in the project root directory:
